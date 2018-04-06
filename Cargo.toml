@@ -1,0 +1,7 @@
+[package]
+name = "miller_rabin_primality_test"
+version = "0.0.1"
+authors = ["hsolatges <hsolatges@hotmail.fr>"]
+
+[dependencies]
+rand = "^0.4.2"
